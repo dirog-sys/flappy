@@ -1,5 +1,5 @@
 // Variable Bank
-let move_speed = 20;
+let move_speed = 30;
 let gravity = 0.7;
 let bird = document.querySelector('.bird');
 let img = document.getElementById('bird-1');
