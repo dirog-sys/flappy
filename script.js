@@ -1,6 +1,6 @@
 // Variable Bank
-let move_speed = 70;
-let gravity = 0.7;
+let move_speed = 10;
+let gravity = 0.5;
 let bird = document.querySelector('.bird');
 let img = document.getElementById('bird-1');
 let sound_point = new Audio('sounds effect/point.mp3');
